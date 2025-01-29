@@ -39,9 +39,9 @@ This project is a web-based version of the Rock-Paper-Scissors game, allowing us
     ```bash
     cd rock-paper-scissor
 
-3. **Open index.html in your preferred web browser:**
+3. **Open `index.html` in your preferred web browser:**
 
-- You can double-click the index.html file.
+- You can double-click the `index.html` file.
 - Or, serve the file using a local server for better performance.
 
 ## How to Play
@@ -54,7 +54,7 @@ This project is a web-based version of the Rock-Paper-Scissors game, allowing us
 Contributions are welcome! If you'd like to improve the game or fix bugs:
 
 1. Fork the repository.
-2. Create a new branch: git checkout -b feature-name.
-3. Make your changes and commit them: git commit -m 'Add new feature'.
-4. Push to the branch: git push origin feature-name.
+2. Create a new branch: `git checkout -b feature-name`.
+3. Make your changes and commit them: `git commit -m 'Add new feature'`.
+4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request detailing your changes.
